@@ -1,7 +1,7 @@
 'use strict';
 /* global $ */
 
-const apiKey = 'oVT5VFKe6mMGdcanleNpicgZcMl1QpKGSedNTHN1';
+const apiKey = '1af28c467b7a404f896eb53c4145358f';
 
 const baseUrl = 'https://developer.nps.gov/api/v1/parks?stateCode=';
 
